@@ -7,6 +7,7 @@ keywords:
         Majorana: 1
         spin liquid: 1
         magnetic susceptibility : 1
+        spin : 1
 
 # 通知の閾値
 score_threshold: 0
