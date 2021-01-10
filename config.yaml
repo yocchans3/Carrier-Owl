@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:physics.* OR cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        Kitaev: 1
+        Majorana: 1
+        spin liquid: 1
+        magnetic susceptibility : 1
 
 # 通知の閾値
 score_threshold: 0
